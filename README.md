@@ -20,3 +20,4 @@ cd repositorio-com-readme
 ````
 ### Coisas que eu aprendi
 1. Aprendizado com o HTML e CSS Básico
+2. Aprendizado em JS e Git
